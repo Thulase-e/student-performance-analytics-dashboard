@@ -133,6 +133,13 @@ grade_df["GRADE"] = grade_df["AVERAGE_MARKS"].apply(
     calculate_grade
 )
 
+# Sort from highest average to lowest, so grades appear as A+, A, B, C, D, FAIL
+grade_df = grade_df.sort_values(
+    by="AVERAGE_MARKS",
+    ascending=False
+).reset_index(drop=True)
+
+
 print("\nGRADE REPORT")
 print(grade_df)
 

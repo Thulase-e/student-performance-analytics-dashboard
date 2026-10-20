@@ -10,11 +10,11 @@ An end-to-end analytics project: **Oracle SQL → Python → Power BI**. It turn
 
 **Page 1: Executive Overview**
 
-![Executive Overview](images/Proj_page1.jpg)
+![Executive Overview](https://github.com/Thulase-e/student-performance-analytics-dashboard/blob/main/Proj_page1.jpg.png)
 
 **Page 2: Student Explorer**
 
-![Student Explorer](images/Proj_page2.jpg)
+![Student Explorer](https://github.com/Thulase-e/student-performance-analytics-dashboard/blob/main/Proj_page2.jpg.png)
 
 ---
 
@@ -111,4 +111,4 @@ Oracle SQL (SQL Developer) · Python 3 (pandas) · Power BI Desktop (Power Query
 
 ## Author
 
-**Thulasee A** · Aspiring Data Analyst · [LinkedIn](https://www.linkedin.com/in/thulasee-a-9b9824416/)
+**Thulasee A** · Aspiring Data Analyst · [LinkedIn](https://www.linkedin.com/in/thulasee-anbazhagan-9b9824416/)
